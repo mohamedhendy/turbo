@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7115916a.chunk.css",
+    "main.js": "./static/js/main.0fa3d698.chunk.js",
+    "main.js.map": "./static/js/main.0fa3d698.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4ce15619.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4ce15619.js.map",
+    "static/css/2.c3f21e02.chunk.css": "./static/css/2.c3f21e02.chunk.css",
+    "static/js/2.c15cd277.chunk.js": "./static/js/2.c15cd277.chunk.js",
+    "static/js/2.c15cd277.chunk.js.map": "./static/js/2.c15cd277.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a75238ae5861c852bf3e8015ae3774ec.js": "./precache-manifest.a75238ae5861c852bf3e8015ae3774ec.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.c3f21e02.chunk.css.map": "./static/css/2.c3f21e02.chunk.css.map",
+    "static/css/main.7115916a.chunk.css.map": "./static/css/main.7115916a.chunk.css.map",
+    "static/js/2.c15cd277.chunk.js.LICENSE": "./static/js/2.c15cd277.chunk.js.LICENSE",
+    "static/media/260484911b7ee0f57ecd8c322a8fd2431d4c7a2b.png": "./static/media/260484911b7ee0f57ecd8c322a8fd2431d4c7a2b.a8b3642b.png",
+    "static/media/8f48d5d6c5072291f10712365dbae2670531c8aa.png": "./static/media/8f48d5d6c5072291f10712365dbae2670531c8aa.05dbc3d6.png",
+    "static/media/973f58f2a3f69e01ff9065f1b4f5ec3f50fa9138.png": "./static/media/973f58f2a3f69e01ff9065f1b4f5ec3f50fa9138.ed3894c2.png",
+    "static/media/Total-img.png": "./static/media/Total-img.ad2d2873.png",
+    "static/media/and.png": "./static/media/and.0ff869b2.png",
+    "static/media/box.png": "./static/media/box.245b714b.png",
+    "static/media/App.css": "./static/media/header.b93c953a.png",
+    "static/media/c7b63492535aaaac5440a40e89d019e70e3e55b2.png": "./static/media/c7b63492535aaaac5440a40e89d019e70e3e55b2.65a64fec.png",
+    "static/media/car.png": "./static/media/car.825d8d3e.png",
+    "static/media/card-img.png": "./static/media/card-img.743b9f37.png",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/key-img.png": "./static/media/key-img.182bbcb7.png",
+    "static/media/tbl-img.png": "./static/media/tbl-img.9f2caa95.png",
+    "static/media/waw-2.png": "./static/media/waw-2.c17b5dd9.png",
+    "static/media/waw.png": "./static/media/waw.a846327b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ce15619.js",
+    "static/css/2.c3f21e02.chunk.css",
+    "static/js/2.c15cd277.chunk.js",
+    "static/css/main.7115916a.chunk.css",
+    "static/js/main.0fa3d698.chunk.js"
+  ]
+}
